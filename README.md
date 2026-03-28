@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Ivan Bakaldin
 
 Frontend Developer (HTML, CSS, JavaScript)
+
 UI/UX enthusiast
+
 Applied Informatics student
 
 ---
