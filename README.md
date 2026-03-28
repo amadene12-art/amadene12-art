@@ -29,5 +29,5 @@ https://github.com/amadene12-art/ciphercalc
 
 ## 📫 Contact
 
-* Telegram: @limefours
+* Telegram: @Limefours
 * Email: amadene12@gmail.com
